@@ -1,3 +1,3 @@
-# .github
+# Software Documentation
 ## Talking Objects Ecosystem
-Documentation will launch in March 2025
+The final Documentation of the Software and Techstack will launch in March 2025
